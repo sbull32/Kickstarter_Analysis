@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Microsoft Excel Kickstarter Analysis Challenge
+Microsoft Excel Kickstarter Analysis
 
 ## Overview
 	   
