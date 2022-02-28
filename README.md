@@ -10,10 +10,14 @@ This analysis will detail different Kickstarter campaigns and how they fared in 
 ### Analysis of Outcomes Based on Launch Date
 
 In order to perform our outcomes based on launch date we used a pivot table to detail the number of theater campaigns which were successful, failed, and canceled across different months of the year. To get this date we applied a basic unix conversion formula to get the original date the campaign was launched on from the original dataset and listed this under the Data Created Conversion column.  Once we had this information, we created a PivotChart to visually show the differences between outcomes based on what month of the year the campaign began in. 
+
+![Launch Date Outcomes](https://github.com/sbull32/Kickstarter_Analysis/blob/main/Resources/outcomes_by_launchdate.png)
   
 ### Analysis of Outcomes Based on Goals
 
-To complete our analysis of outcomes based on funding goals, we first had to group the funding targets in order to best analyze the data. To do this we manually created the 12 categories of funding goals and used a formula to determine how many outcomes were successful, failed or were canceled in each of these funding categories. We then created a line chart to better display these results by showing the percentage of outcomes for each funding subcategory.   
+To complete our analysis of outcomes based on funding goals, we first had to group the funding targets in order to best analyze the data. To do this we manually created the 12 categories of funding goals and used a formula to determine how many outcomes were successful, failed or were canceled in each of these funding categories. We then created a line chart to better display these results by showing the percentage of outcomes for each funding subcategory.
+
+![Category Outcomes](https://github.com/sbull32/Kickstarter_Analysis/blob/main/Resources/category_outcomes.png)
   
 ### Challenges and Difficulties Encountered
 	
