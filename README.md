@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Microsoft Excel Kickstarter Analysis
+An Analysis of Kickstarter Campaigns
 
 ## Overview
 	   
